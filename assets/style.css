@@ -1,0 +1,52 @@
+/* Fundo da página */
+.main {
+    background-color: #fce4ec;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Radios */
+.stRadio > div {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Botões */
+.stButton > button {
+    background-color: #c2185b;
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+    border: none;
+    font-size: 16px;
+}
+
+.stButton > button:hover {
+    background-color: #ad1457;
+    color: white;
+}
+
+/* Markdown geral */
+.stMarkdown {
+    font-size: 18px;
+}
+
+/* Expanders */
+summary {
+    font-size: 17px;
+    color: #c2185b;
+}
+
+/* Cards */
+.card {
+    background-color: #e8f5e9;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #c3e6cb;
+    color: #155724;
+}
