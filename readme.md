@@ -67,7 +67,11 @@ GOOGLE_API_KEY=sua-chave-aqui
 ![App no celular](FotosApp/AnaliseApp.png)
 
 ### 💻 Desktop  
-![App no desktop](FotosApp/AnaliseDesktop.png)
+![App no desktop Home](FotosApp/Inicio.png)
+
+![App no desktop Alimento](FotosApp/AnaliseDesktop.png)
+
+![App no desktop Medicamento](FotosApp/AnaliseMedicamento.png)
 
 ---
 
