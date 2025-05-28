@@ -39,7 +39,6 @@ https://luma-gestante.streamlit.app/
 
 - [**Streamlit**](https://streamlit.io/) – Para a construção da interface web  
 - [**Google Gemini API**](https://ai.google.dev/) – Para gerar respostas inteligentes com base em imagem e texto  
-- [**Pillow (PIL)**](https://pillow.readthedocs.io/) – Para processar imagens no backend  
 - [**dotenv**](https://pypi.org/project/python-dotenv/) – Para gerenciamento seguro de chaves e variáveis  
 - [**Python 3.11+**](https://www.python.org/) – Linguagem base do projeto
 
