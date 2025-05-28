@@ -31,7 +31,7 @@ O app **Dra. Luma** oferece orientações rápidas, empáticas e informativas pa
 ---
 
 ## 🚀 Teste o App
-https://lumagestante.streamlit.app/
+https://luma-gestante.streamlit.app/
 
 ---
 
